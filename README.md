@@ -6,5 +6,5 @@
 </ul>
 <h1>Demo</h1>
 <ul>
-<li>just use my_plugin.html</li>
+<li>just use the file called "my_plugin.html"</li>
 </ul>
