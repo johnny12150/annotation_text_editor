@@ -4,7 +4,7 @@
   <li> getContent() </li>
   <li> need tinymce cdn or download the js file </li>
 </ul>
-<h1>Demo<h1>
+<h1>Demo</h1>
 <ul>
 <li>just use my_plugin.html</li>
 </ul>
